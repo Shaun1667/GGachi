@@ -105,3 +105,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity 디버그 심볼 폴더 (배포용 아님)
+Builds/**/*_BackUpThisFolder_ButDontShipItWithYourGame/
